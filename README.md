@@ -1,3 +1,3 @@
 # Strivers-SDE-Sheet---Challenge
 
-Daily 5 problems, that's it.
+Daily 6 problems, that's it.
